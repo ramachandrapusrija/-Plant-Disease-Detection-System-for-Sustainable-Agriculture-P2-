@@ -36,7 +36,7 @@ Dataset/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/Abhidongre/Plant-Disease-Detection-System-for-Sustainable-Agriculture.git
+   git clone https://github.com/ramachandrapusrija/-Plant-Disease-Detection-System-for-Sustainable-Agriculture-P2-/edit/main/README.md
    cd Plant-Disease-Detection-System-for-Sustainable-Agriculture
    ```
 
@@ -115,32 +115,4 @@ Plant-Disease-Detection-System/
 |-- requirements.txt      # List of dependencies
 |-- README.md             # Project documentation (this file)
 ```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. Fork the repository.
-2. Create a new branch for your feature/bug fix.
-3. Commit your changes and create a pull request.
-
----
-
-## ✉️ Contact
-
-Have questions or suggestions? Reach out to [Abhidongre](https://github.com/Abhidongre).
-
----
-
-## ⭐ Acknowledgments
-
-Special thanks to:
-
-- Open datasets used for training.
-- TensorFlow and Keras for making deep learning accessible.
-- This project was built during the **AICTE Internship on AI: Transformative Learning**, powered by **TechSaksham**—a joint CSR initiative by **Microsoft** and **SAP**. The program provided mentorship, hands-on learning, and a platform to explore real-world AI applications.
-
-If you found this project helpful, don't forget to give it a star ⭐ on GitHub!
 
